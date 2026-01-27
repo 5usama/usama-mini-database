@@ -1,1 +1,13 @@
-
+{
+  "users": {},
+  "settings": {
+    "autoCleanup": true,
+    "lastCleanup": null
+  },
+  "stats": {
+    "totalAdded": 0,
+    "totalRemoved": 0,
+    "activeUsers": 0,
+    "expiredUsers": 0
+  }
+}
