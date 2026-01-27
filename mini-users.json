@@ -1,13 +1,50 @@
 {
-  "users": {},
+  "users": {
+    "923239601585": {
+      "number": "923239601585",
+      "status": "active",
+      "addedAt": "2024-01-28T00:00:00.000Z",
+      "addedBy": "system",
+      "expiry": null,
+      "lastUsed": null,
+      "usageCount": 0
+    },
+    "923164811599": {
+      "number": "923164811599",
+      "status": "active",
+      "addedAt": "2024-01-28T00:00:00.000Z",
+      "addedBy": "system",
+      "expiry": null,
+      "lastUsed": null,
+      "usageCount": 0
+    },
+    "923271636436": {
+      "number": "923271636436",
+      "status": "active",
+      "addedAt": "2024-01-28T00:00:00.000Z",
+      "addedBy": "system",
+      "expiry": null,
+      "lastUsed": null,
+      "usageCount": 0
+    },
+    "923010967206": {
+      "number": "923010967206",
+      "status": "active",
+      "addedAt": "2024-01-28T00:00:00.000Z",
+      "addedBy": "system",
+      "expiry": null,
+      "lastUsed": null,
+      "usageCount": 0
+    }
+  },
   "settings": {
     "autoCleanup": true,
     "lastCleanup": null
   },
   "stats": {
-    "totalAdded": 0,
+    "totalAdded": 4,
     "totalRemoved": 0,
-    "activeUsers": 0,
+    "activeUsers": 4,
     "expiredUsers": 0
   }
 }
