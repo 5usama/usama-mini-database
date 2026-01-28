@@ -1,14 +1,5 @@
 {
   "users": {
-    "923239601585": {
-      "number": "923239601585",
-      "status": "active",
-      "addedAt": "2024-01-28T00:00:00.000Z",
-      "addedBy": "system",
-      "expiry": null,
-      "lastUsed": null,
-      "usageCount": 0
-    },
     "923164811599": {
       "number": "923164811599",
       "status": "active",
